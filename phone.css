@@ -1,0 +1,79 @@
+header{
+    flex-direction: column;
+}
+
+.logo img{
+    margin-left: 49vw;
+    height: 30px;
+}
+
+.search{
+    display: none;
+}
+
+.big1{
+    flex-direction: column;
+}
+
+ul{
+    /* margin-left: 24vw; */
+    justify-content: center;
+
+}
+li{
+    font-size: 0.8rem;
+}
+
+.box2 h1{
+    font-size: 1.5rem;
+}
+
+.box3 p{
+    font-size: 0.6rem;
+}
+
+.slog h1{
+    font-size: 1rem;
+}
+
+.small2 p{
+    font-size: 0.6rem;
+}
+
+.img1 img{
+    height: 16vh;
+}
+
+.menu h1{
+    font-size: 1.5rem;
+}
+
+.small1 img{
+    height: 13vh;
+}
+
+.fullMenu h2{
+    font-size: 1.2rem;
+}
+
+.body2 h3{
+    font-size: 1.5rem;
+}
+
+.back p{
+    font-size: 0.8rem;
+}
+
+.bigbox1{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.feed img{
+    height: 11vh;
+}
+
+footer p{
+    font-size: 0.7rem;
+}
